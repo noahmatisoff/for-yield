@@ -6,7 +6,7 @@ A Ruby port of Scala's for comprehension to be used in tandem with [`Option`](ht
 
 Add this line to your application's Gemfile:
 
-    gem "for-yield'
+    gem "for-yield"
 
 And then execute:
 
